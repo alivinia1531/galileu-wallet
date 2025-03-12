@@ -1,4 +1,4 @@
-# Projeto Integradoe desenvolvido na Escola Champagnat em parceria com o Galileu
+# Projeto Integrador desenvolvido na Escola Champagnat em parceria com o Galileu
 
 ## Recursos utilizados 
 - VSCode
